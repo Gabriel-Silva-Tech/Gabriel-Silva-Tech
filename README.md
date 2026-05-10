@@ -4,37 +4,38 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Gabriel%20Silva&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=ffffff)
 
-
 </div>
 
 ---
-
 ## 🧠 Sobre mim
 
 ```typescript
 👋 Olá, eu sou o Gabriel!
 
-sou estudante de Desenvolvimento Full Stack no Instituto Proa e estou construindo meu caminho na tecnologia com muita dedicação  e algumas orações e xícaras de café pelo caminho.
+sou estudante de Desenvolvimento Full Stack no Instituto Proa e estou construindo meu caminho na tecnologia
+com muita dedicação  e algumas orações e xícaras de café pelo caminho.
 
-Fora do código, você me encontra levantando peso, praticando esportes, explorando trilhas ou com um livro na mão. Acredito que disciplina é disciplina, seja na academia ou no terminal  e foi exatamente essa mentalidade que me trouxe até aqui.
+Fora do código, você me encontra levantando peso, praticando esportes, explorando trilhas ou com um livro na mão.
+Acredito que disciplina é disciplina, seja na academia ou no terminal e foi exatamente essa mentalidade que me trouxe até aqui.
 
-A programação me pegou de um jeito que poucos hobbies conseguiram: cada bug resolvido, cada feature entregue, cada linha que finalmente faz sentido me empurra um passo a mais em direção à melhor versão de mim mesmo.
+A programação me pegou de um jeito que poucos hobbies conseguiram: cada bug resolvido,
+cada projeto entregue, cada linha que finalmente faz sentido me empurra um passo a mais em direção à melhor versão de mim mesmo.
 
-Ainda estou começando  e é exatamente isso que me motiva. 🚀
+Ainda estou começando e é exatamente isso que me motiva. 🚀
 ```
 
 ## 🛠️ Tech Stack
 
-### 💛 JavaScript / TypeScript
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 💛 FRONT-END
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🟣 Java / Kotlin
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🟣 BACK-END
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### ⚙️ Tools & Infra
@@ -89,9 +90,8 @@ Ainda estou começando  e é exatamente isso que me motiva. 🚀
 ---
 
 <div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Gabriel-Silva-Tech&color=6366F1&style=for-the-badge&label=Visitas+no+perfil)
-
+  
 *"The best way to predict the future is to build it."* 🚀
 
 </div>
