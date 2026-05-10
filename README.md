@@ -1,63 +1,109 @@
 <div align="center">
 
+```
+   ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗
+  ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║
+  ██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║
+  ██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║
+  ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
+   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
+```
 
-   <img src="https://github.com/brunoasouza15004-hash/brunoasouza15004-hash/blob/main/meuNome.png" width="700px" height="300px" alt="Bruno Souza Pixel Art" />
+### 🚀 Full Stack Developer · Construindo o futuro, uma linha de cada vez.
 
-   <img src="https://github.com/brunoasouza15004-hash/brunoasouza15004-hash/blob/main/kadett.png" width="800px" alt="Kadett Pixel Art" />
-       
-      
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%2F+TypeScript+Enthusiast;Java+%2F+Kotlin+Engineer;Always+building+something+new...)](https://git.io/typing-svg)
 
-  <td width="60%" align="left">
-        <h3> Fullstack Developer</h3>
-        <p>
-          Java | MySQl | Spring boot | React | JavaScript | HTML/CSS
-        </p>
-        <p><i>"Cruising for code."</i></p>
-      </td>
-    </tr>
-  </table>
-</div>
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web;Fullstack+Java+Developer;MySQL;Springboot" alt="Typing SVG" />
-  </h1>
 </div>
 
 ---
 
-tenho 18 anos e atualmente estou cursando o ensino médio. Tenho grande interesse na área de tecnologia, especialmente em desenvolvimento web, e estou em formação no curso de Programação Web Java pelo Instituto PROA.
+## 🧠 Sobre mim
 
-Sou uma pessoa dedicada, curiosa e sempre em busca de aprendizado contínuo. Tenho interesse em adquirir novas experiências, desenvolver minhas habilidades técnicas e crescer profissionalmente na área de tecnologia.
-
-Estou aberto a oportunidades que me permitam evoluir, contribuir com projetos e ampliar meus conhecimentos, sempre buscando dar o meu melhor e aprender algo novo a cada desafio..
-
----
-<div align = "center">
-
-# 💻 Tech Stack
-
- [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,react,figma)](https://skillicons.dev)
-
-</div>
-
-
-<div align= "center">
-
-# 📊 GitHub Stats
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoasouza15004-hash&theme=tokyonight&currStreakLabel=00D4FF&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&hide_border=true" />
-</div>
+```typescript
+const gabriel = {
+  role: "Full Stack Developer",
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:   ["Node.js", "Spring Boot", "Kotlin", "REST APIs"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    devops:    ["Docker", "GitHub Actions", "AWS"],
+  },
+  currentFocus: "Construindo produtos que importam 🚀",
+  funFact: "Acredito que o código limpo é uma forma de arte.",
+};
+```
 
 ---
-<div align = "center">
-  
-## Minhas contribuições:
+
+## 🛠️ Tech Stack
+
+### 💛 JavaScript / TypeScript
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🟣 Java / Kotlin
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### ⚙️ Tools & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Silva-Tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Silva-Tech&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunoasouza15004-hash/brunoasouza15004-hash/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunoasouza15004-hash/brunoasouza15004-hash/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brunoasouza15004-hash/brunoasouza15004-hash/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
 
-###
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-Silva-Tech&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Silva-Tech&repo=SEU-PROJETO-1&theme=tokyonight&hide_border=true)](https://github.com/Gabriel-Silva-Tech/SEU-PROJETO-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Silva-Tech&repo=SEU-PROJETO-2&theme=tokyonight&hide_border=true)](https://github.com/Gabriel-Silva-Tech/SEU-PROJETO-2)
+
+</div>
+
+> 💡 **Dica:** Troque `SEU-PROJETO-1` e `SEU-PROJETO-2` pelos nomes reais dos seus repos favoritos!
+
+---
+
+## 🌐 Vamos nos Conectar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Silva-Tech)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gabriel-Silva-Tech&color=6366F1&style=for-the-badge&label=Visitas+no+perfil)
+
+*"The best way to predict the future is to build it."* 🚀
+
+</div>
