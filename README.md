@@ -11,7 +11,8 @@
 
 ### 🚀 Full Stack Developer · Construindo o futuro, uma linha de cada vez.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%2F+TypeScript+Enthusiast;Java+%2F+Kotlin+Engineer;Always+building+something+new...)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Gabriel%20Silva&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=ffffff)
+
 
 </div>
 
