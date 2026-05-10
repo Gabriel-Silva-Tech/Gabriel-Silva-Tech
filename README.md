@@ -70,9 +70,11 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 
 <div align="center">
 
-[![SOPRO](https://github-readme-stats.vercel.app/api/pin/?username=SOPRO-equipe1&repo=SOPRO&theme=tokyonight&hide_border=true)](https://github.com/SOPRO-equipe1)
-[![Integra+](https://github-readme-stats.vercel.app/api/pin/?username=Equipe-05-Integra&repo=Equipe-05-Integra-&theme=tokyonight&hide_border=true)](https://github.com/Equipe-05-Integra/Equipe-05-Integra-)
-[![Suspiro News](https://github-readme-stats.vercel.app/api/pin/?username=ismaiaradasilvavieira04-droid&repo=Projeto-UC1-Site-De-Noticias&theme=tokyonight&hide_border=true)](https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias)
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| 🔥 SOPRO | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOPRO-equipe1) |
+| 💜 Integra+ | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Equipe-05-Integra/Equipe-05-Integra-) |
+| 📰 Suspiro News | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias) |
 
 </div>
 
