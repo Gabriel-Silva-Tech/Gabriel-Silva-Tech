@@ -70,7 +70,7 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 
 [![SOPRO](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Silva-Tech&repo=SEU-PROJETO-1&theme=tokyonight&hide_border=true)]([https://github.com/Gabriel-Silva-Tech/SEU-PROJETO-1](https://github.com/SOPRO-equipe1))
 [![Integra+](equipe-05-integra.vercel.app)]([https://github.com/Gabriel-Silva-Tech/SEU-PROJETO-2](https://github.com/Equipe-05-Integra/Equipe-05-Integra-))
-[![Suspiro News(equipe-05-integra.vercel.app)]([https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias])
+[![Suspiro News](equipe-05-integra.vercel.app)]([https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias])
 
 </div>
 
