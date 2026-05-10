@@ -1,4 +1,5 @@
 <div align="center">
+
 ```
    ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗
   ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║
@@ -19,20 +20,16 @@
 ## 🧠 Sobre mim
 
 ```typescript
-const gabriel = {
-  role: "Full Stack Developer",
-  stack: {
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:   ["Node.js", "Spring Boot", "Kotlin", "REST APIs"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    devops:    ["Docker", "GitHub Actions", "AWS"],
-  },
-  currentFocus: "Construindo produtos que importam 🚀",
-  funFact: "Acredito que o código limpo é uma forma de arte.",
-};
-```
+👋 Olá, eu sou o Gabriel!
 
----
+sou estudante de Desenvolvimento Full Stack no Instituto Proa e estou construindo meu caminho na tecnologia com muita dedicação  e algumas orações e xícaras de café pelo caminho.
+
+Fora do código, você me encontra levantando peso, praticando esportes, explorando trilhas ou com um livro na mão. Acredito que disciplina é disciplina, seja na academia ou no terminal  e foi exatamente essa mentalidade que me trouxe até aqui.
+
+A programação me pegou de um jeito que poucos hobbies conseguiram: cada bug resolvido, cada feature entregue, cada linha que finalmente faz sentido me empurra um passo a mais em direção à melhor versão de mim mesmo.
+
+Ainda estou começando  e é exatamente isso que me motiva. 🚀
+```
 
 ## 🛠️ Tech Stack
 
