@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="./.computador.png" width="600"/>
+  <img src="/computador.png" width="600"/>
 </p>
 
 ---
@@ -15,14 +15,16 @@
 ```typescript
 👋 Olá, eu sou o Gabriel!
 
-sou estudante de Desenvolvimento Full Stack no Instituto Proa e estou construindo meu caminho na tecnologia
-com muita dedicação  e algumas orações e xícaras de café pelo caminho.
+sou estudante de Desenvolvimento Full Stack no Instituto Proa e estou construindo meu caminho
+na tecnologia com muita dedicação e muitas orações e xícaras de café pelo caminho.
 
-Fora do código, você me encontra levantando peso, praticando esportes, explorando trilhas ou com um livro na mão.
-Acredito que disciplina é disciplina, seja na academia ou no terminal e foi exatamente essa mentalidade que me trouxe até aqui.
+Fora do código, você me encontra levantando peso, praticando esportes, ou com um livro na mão.
+Acredito que disciplina é disciplina, seja na academia ou no terminal e foi exatamente essa
+mentalidade que me trouxe até aqui.
 
 A programação me pegou de um jeito que poucos hobbies conseguiram: cada bug resolvido,
-cada projeto entregue, cada linha que finalmente faz sentido me empurra um passo a mais em direção à melhor versão de mim mesmo.
+cada projeto entregue, cada linha que finalmente faz sentido me empurra um passo a mais
+em direção à melhor versão de mim mesmo.
 
 Ainda estou começando e é exatamente isso que me motiva. 🚀
 ```
@@ -94,6 +96,6 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 
 ---
   
-*"Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna."* 
+*"Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna.✝️"* 
 
 </div>
