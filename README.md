@@ -6,7 +6,8 @@
 </div>
 
 <p align="center">
-  <img src="./computador.svg" width="600"/>
+  <img src="https://raw.githubusercontent.com/Gabriel-Silva-Tech/Gabriel-Silva-Tech/main/computador.svg" width="600"/>
+
 </p>
 
 ---
