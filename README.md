@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="./computador.png" width="600"/>
+  <img src="./.computador.png" width="600"/>
 </p>
 
 ---
@@ -93,9 +93,6 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 </div>
 
 ---
-
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Gabriel-Silva-Tech&color=6366F1&style=for-the-badge&label=Visitas+no+perfil)
   
 *"Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna."* 
 
