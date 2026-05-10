@@ -76,6 +76,12 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 
 ---
 
+<div align="center">
+
+![Pacman](https://raw.githubusercontent.com/Gabriel-Silva-Tech/Gabriel-Silva-Tech/output/pacman-contribution-graph.svg)
+
+</div>
+
 ## 🌐 Vamos nos Conectar
 
 <div align="center">
