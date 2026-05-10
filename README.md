@@ -72,9 +72,9 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| 🔥 SOPRO | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOPRO-equipe1) |
-| 💜 Integra+ | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Equipe-05-Integra/Equipe-05-Integra-) |
-| 📰 Suspiro News | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias) |
+| SOPRO | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOPRO-equipe1) |
+| Integra+ | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Equipe-05-Integra/Equipe-05-Integra-) |
+| Suspiro News | Descrição breve do projeto | [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias) |
 
 </div>
 
