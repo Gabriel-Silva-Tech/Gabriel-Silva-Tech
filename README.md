@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-   ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗
-  ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║
-  ██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║
-  ██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║
-  ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
-   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
-```
-
 ### 🚀 Full Stack Developer · Construindo o futuro, uma linha de cada vez.
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Gabriel%20Silva&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=ffffff)
