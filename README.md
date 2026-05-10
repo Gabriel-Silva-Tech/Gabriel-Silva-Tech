@@ -6,8 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Silva-Tech/Gabriel-Silva-Tech/main/computador.svg" width="600"/>
-
+  <img src="./computador.png" width="600"/>
 </p>
 
 ---
@@ -42,11 +41,9 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### ⚙️ Tools & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ⚙️ Versionamento de código
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
 
@@ -71,12 +68,11 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Silva-Tech&repo=SEU-PROJETO-1&theme=tokyonight&hide_border=true)](https://github.com/Gabriel-Silva-Tech/SEU-PROJETO-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Silva-Tech&repo=SEU-PROJETO-2&theme=tokyonight&hide_border=true)](https://github.com/Gabriel-Silva-Tech/SEU-PROJETO-2)
+[![SOPRO](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Silva-Tech&repo=SEU-PROJETO-1&theme=tokyonight&hide_border=true)]([https://github.com/Gabriel-Silva-Tech/SEU-PROJETO-1](https://github.com/SOPRO-equipe1))
+[![Integra+](equipe-05-integra.vercel.app)]([https://github.com/Gabriel-Silva-Tech/SEU-PROJETO-2](https://github.com/Equipe-05-Integra/Equipe-05-Integra-))
+[![Suspiro News(equipe-05-integra.vercel.app)]([https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias])
 
 </div>
-
-> 💡 **Dica:** Troque `SEU-PROJETO-1` e `SEU-PROJETO-2` pelos nomes reais dos seus repos favoritos!
 
 ---
 
@@ -101,6 +97,6 @@ Ainda estou começando e é exatamente isso que me motiva. 🚀
 <div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Gabriel-Silva-Tech&color=6366F1&style=for-the-badge&label=Visitas+no+perfil)
   
-*"The best way to predict the future is to build it."* 🚀
+*"Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna."* 
 
 </div>
